@@ -14,4 +14,4 @@ Acustic data for training is Api.ai data mixed with Librispeech corpus (http://w
 Language model is based on Assistant.ai logs, so it good for short commands, like "Wake me up at 7 am".
 
 ## Results
-Api.ai test corpus WER: 13.5%
+Api.ai test corpus WER: 11.2%
