@@ -6,6 +6,9 @@ Model is released under Creative Commons Attribution-ShareAlike 4.0 Internationa
 There are example scripts on how to use model with model in kaldi repo
 https://github.com/kaldi-asr/kaldi/blob/master/egs/apiai_decode/s5/README
 
+You can also test this model using your borwser and HTTP protocol, follow guide here:
+https://github.com/api-ai/asr-server
+
 ## Training
 Model is trained using kaldi "Chain models", read more about them here http://kaldi-asr.org/doc2/chain.html
 
