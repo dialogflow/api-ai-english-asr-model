@@ -9,8 +9,6 @@ https://github.com/kaldi-asr/kaldi/blob/master/egs/apiai_decode/s5/README
 You can also test this model using your borwser and HTTP protocol, follow guide here:
 https://github.com/api-ai/asr-server
 
-You can test this model online here: https://asr-model-demo.api.ai/
-
 ## Training
 Model is trained using kaldi "Chain models", read more about them here http://kaldi-asr.org/doc2/chain.html
 
